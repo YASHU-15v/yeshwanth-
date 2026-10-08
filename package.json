@@ -1,0 +1,3 @@
+{ "name": "yeshwanth-gowda-site", "version": "1.0.0", "private": true,
+  "scripts": { "dev": "vercel dev" },
+  "dependencies": { "nodemailer": "^6.9.14" }, "engines": { "node": ">=18" } }
